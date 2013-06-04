@@ -1,0 +1,9 @@
+Building IndieCoin
+
+See doc/readme-qt.rst for instructions on building indiecoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of IndieCoin.
+
+See doc/build-*.txt for instructions on building indiecoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of IndieCoin.
