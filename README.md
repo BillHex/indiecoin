@@ -1,3 +1,3 @@
-IndieCoin (FOO)
+IndieCoin (I-C)
 
 Blah, blah, blah.
