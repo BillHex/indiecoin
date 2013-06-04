@@ -1,3 +1,3 @@
 IndieCoin (I-C)
 
-Blah, blah, blah.
+Coins for Indies
